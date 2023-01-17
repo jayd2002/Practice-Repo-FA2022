@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Jaydon Debus
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calculus 1
 
-- Course 2
+- FLAME
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Entuerpernul Opportunity Analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Fishing
 
-- Thing 2
+- Sports
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Technolgy
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
